@@ -1,1 +1,0 @@
-# Suyo-MariahAndrea-mobile-portfolio
