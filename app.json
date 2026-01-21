@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Suyo-MariahAndrea-mobile-portfolio",
-    "slug": "Suyo-MariahAndrea-mobile-portfolio",
+    "name": "suyo-mariahandrea-mobile-portfolio",
+    "slug": "snack-f1f5f792-8999-492a-a3e4-41763accba84",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,8 +20,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "edgeToEdgeEnabled": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
